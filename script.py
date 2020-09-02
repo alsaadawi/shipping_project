@@ -42,3 +42,5 @@ def calculate_money_made(*trips):
 
 # Test the function by calling
 test_function(calculate_money_made)
+print(test_function())
+
